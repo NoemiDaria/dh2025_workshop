@@ -129,7 +129,7 @@
             </lg>
 
             <lg n="16" xml:id="lg016">
-               <l n="46">«Dimmi, maestro mio, dimmi, segnore»,</l>
+               <l n="46">«Dimmi, <persName type="identifiable" xml:id="Verg03">maestro mio</persName>, dimmi, <persName xml:id="Verg04">segnore</persName>»,</l>
                <l n="47">comincia’ io per voler esser certo</l>
                <l n="48">di quella fede che vince ogne errore:</l>
             </lg>
