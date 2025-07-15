@@ -95,6 +95,243 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/NoemiDaria/dh2025_workshop/main/inferno_files/Inferno_italiano.xml?person_annotation_20250715155859338",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-07-15T13:58:59.338Z",
+	"dcterms:modified": "2025-07-15T13:58:59.338Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/NoemiDaria",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Noemi Daria Zaccagnino"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/NoemiDaria/dh2025_workshop/main/inferno_files/Inferno_italiano.xml?person_annotation_20250715155859338#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/NoemiDaria/dh2025_workshop/main/inferno_files/Inferno_italiano.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.9.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/NoemiDaria/dh2025_workshop/main/inferno_files/Inferno_italiano.xml?person_annotation_20250715155859338#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/lg[11]/l/persName/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q1398",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.9.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/NoemiDaria/dh2025_workshop/main/inferno_files/Inferno_italiano.xml?person_annotation_20250715160001624",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-07-15T14:00:01.624Z",
+	"dcterms:modified": "2025-07-15T14:00:01.624Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/NoemiDaria",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Noemi Daria Zaccagnino"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/NoemiDaria/dh2025_workshop/main/inferno_files/Inferno_italiano.xml?person_annotation_20250715160001624#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/NoemiDaria/dh2025_workshop/main/inferno_files/Inferno_italiano.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.9.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/NoemiDaria/dh2025_workshop/main/inferno_files/Inferno_italiano.xml?person_annotation_20250715160001624#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/lg[16]/l/persName/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q1398",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.9.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/NoemiDaria/dh2025_workshop/main/inferno_files/Inferno_italiano.xml?person_annotation_20250715160023999",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-07-15T14:00:23.999Z",
+	"dcterms:modified": "2025-07-15T14:00:23.999Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/NoemiDaria",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Noemi Daria Zaccagnino"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/NoemiDaria/dh2025_workshop/main/inferno_files/Inferno_italiano.xml?person_annotation_20250715160023999#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/NoemiDaria/dh2025_workshop/main/inferno_files/Inferno_italiano.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.9.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/NoemiDaria/dh2025_workshop/main/inferno_files/Inferno_italiano.xml?person_annotation_20250715160023999#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/lg[16]/l/persName[2]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q1398",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.9.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
          <projectDesc>
             <p>This encoded file was created by members of the Linked Editing Academic Framework
@@ -175,7 +412,7 @@
             </lg>
 
             <lg n="11" xml:id="lg011">
-               <l n="31"><persName xml:id="Verg02">Lo buon maestro</persName> a me: «Tu non dimandi</l>
+               <l n="31"><persName xml:id="Verg02"><persName key="Virgil" ref="http://www.wikidata.org/entity/Q1398">Lo buon maestro</persName></persName> a me: «Tu non dimandi</l>
                <l n="32">che spiriti son questi che tu vedi?</l>
                <l n="33">Or vo’ che sappi, innanzi che più andi,</l>
             </lg>
@@ -205,7 +442,7 @@
             </lg>
 
             <lg n="16" xml:id="lg016">
-               <l n="46">«Dimmi, <persName type="identifiable" xml:id="Verg03">maestro mio</persName>, dimmi, <persName xml:id="Verg04">segnore</persName>»,</l>
+               <l n="46">«Dimmi, <persName type="identifiable" xml:id="Verg03"><persName key="Virgil" ref="http://www.wikidata.org/entity/Q1398">maestro mio</persName></persName>, dimmi, <persName xml:id="Verg04"><persName key="Virgil" ref="http://www.wikidata.org/entity/Q1398">segnore</persName></persName>»,</l>
                <l n="47">comincia’ io per voler esser certo</l>
                <l n="48">di quella fede che vince ogne errore:</l>
             </lg>
