@@ -154,7 +154,7 @@
 
             <lg n="20" xml:id="lg020">
                <l n="58"><persName xml:id="Abram01">Abraàm</persName> patrïarca e <persName type="fictional" xml:id="Dav01">Davìd</persName> re,</l>
-               <l n="59">Israèl con lo padre e co’ suoi nati</l>
+               <l n="59"><persName xml:id="Isr01">Israèl</persName> con lo padre e co’ suoi nati</l>
                <l n="60">e con Rachele, per cui tanto fé,</l>
             </lg>
 
