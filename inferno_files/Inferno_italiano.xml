@@ -155,7 +155,7 @@
             <lg n="20" xml:id="lg020">
                <l n="58"><persName xml:id="Abram01">Abraàm</persName> patrïarca e <persName type="fictional" xml:id="Dav01">Davìd</persName> re,</l>
                <l n="59"><persName xml:id="Isr01">Israèl</persName> con <persName type="fictional" xml:id="Iacob01">lo padre</persName> e co’ <persName xml:id="Isrsons01">suoi nati</persName></l>
-               <l n="60">e con Rachele, per cui tanto fé,</l>
+               <l n="60">e con <persName type="fictional" xml:id="Rach01">Rachele</persName>, per cui tanto fé,</l>
             </lg>
 
             <lg n="21" xml:id="lg021">
