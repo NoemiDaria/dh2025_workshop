@@ -147,13 +147,13 @@
             </lg>
 
             <lg n="19" xml:id="lg019">
-               <l n="55">Trasseci l’ombra del <persName type="fictional" xml:id="Abram01">primo parente</persName>,</l>
+               <l n="55">Trasseci l’ombra del <persName type="fictional" xml:id="Adam01">primo parente</persName>,</l>
                <l n="56">d’<persName xml:id="Abel01">Abèl</persName> suo <persName type="fictional" xml:id="son01">figlio</persName> e quella di <persName xml:id="Noe01">Noè</persName>,</l>
                <l n="57">di <persName type="fictional" xml:id="Mos01">Moïsè</persName> legista e ubidente;</l>
             </lg>
 
             <lg n="20" xml:id="lg020">
-               <l n="58"><persName xml:id="Abram01">Abraàm</persName> patrïarca e Davìd re,</l>
+               <l n="58"><persName xml:id="Abram01">Abraàm</persName> patrïarca e <persName type="fictional" xml:id="Dav01">Davìd</persName> re,</l>
                <l n="59">Israèl con lo padre e co’ suoi nati</l>
                <l n="60">e con Rachele, per cui tanto fé,</l>
             </lg>
